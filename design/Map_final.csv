@@ -1,0 +1,145 @@
+old.sample.ID,Sample_Type,Sample_detail,rep.ID,moss.lichen,experiment.type,plate,Sample_or_Control,E1,E2,E3,E4
+C34_S1,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr4_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C34_S2,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr4_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C34_S3,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr4_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C36_S1,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr1_li1,lichen,tard.vs.tard,1,Sample,T,T,F,F
+C36_S2,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr1_li2,lichen,tard.vs.tard,1,Sample,T,T,F,F
+C36_S3,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr1_li3,lichen,tard.vs.tard,1,Sample,T,T,F,F
+C37_S1,Tardigrade,Tardigrade - moss - 2019,L2_19_Tr1_mo1,moss,tard.vs.tard,1,Sample,F,T,F,F
+C37_S2,Tardigrade,Tardigrade - moss - 2019,L2_19_Tr1_mo2,moss,tard.vs.tard,1,Sample,F,T,F,F
+C37_S3,Tardigrade,Tardigrade - moss - 2019,L2_19_Tr1_mo3,moss,tard.vs.tard,1,Sample,F,T,F,F
+C38_S1,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr2_li1,lichen,tard.vs.tard,1,Sample,T,T,F,F
+C38_S2,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr2_li2,lichen,tard.vs.tard,1,Sample,T,T,F,F
+C38_S3,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr2_li3,lichen,tard.vs.tard,1,Sample,T,T,F,F
+C39_S1,Tardigrade,Tardigrade - moss - 2019,L2_19_Tr2_mo1,moss,tard.vs.tard,1,Sample,F,T,F,F
+C39_S2,Tardigrade,Tardigrade - moss - 2019,L2_19_Tr2_mo2,moss,tard.vs.tard,1,Sample,F,T,F,F
+C39_S3,Tardigrade,Tardigrade - moss - 2019,L2_19_Tr2_mo3,moss,tard.vs.tard,1,Sample,F,T,F,F
+C40_S1,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr3_li1,lichen,tard.vs.tard,1,Sample,T,T,F,F
+C40_S2,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr3_li2,lichen,tard.vs.tard,1,Sample,T,T,F,F
+C40_S3,Tardigrade,Tardigrade - lichen - 2019,L2_19_Tr3_li3,lichen,tard.vs.tard,1,Sample,T,T,F,F
+C41_S1,Tardigrade,Tardigrade - moss - 2019,L2_19_Tr3_mo1,moss,tard.vs.tard,1,Sample,F,T,F,F
+C41_S2,Tardigrade,Tardigrade - moss - 2019,L2_19_Tr3_mo2,moss,tard.vs.tard,1,Sample,F,T,F,F
+C41_S3,Tardigrade,Tardigrade - moss - 2019,L2_19_Tr3_mo3,moss,tard.vs.tard,1,Sample,F,T,F,F
+C50_S1,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr1_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C50_S2,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr1_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C50_S3,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr1_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C52_S1,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr2_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C52_S2,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr2_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C52_S3,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr2_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C54_S1,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr3_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C54_S2,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr3_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C56_S1,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr4_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C56_S2,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr4_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C56_S3,Tardigrade,Tardigrade - lichen - 2019,L5_19_Tr4_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C2_S1,Tardigrade,Tardigrade - lichen - 2019,L1_19_Tr1_li1,lichen,tard.vs.tard,1,Sample,T,F,F,T
+C2_S2,Tardigrade,Tardigrade - lichen - 2019,L1_19_Tr1_li2,lichen,tard.vs.tard,1,Sample,T,F,F,T
+C2_S3,Tardigrade,Tardigrade - lichen - 2019,L1_19_Tr1_li3,lichen,tard.vs.tard,1,Sample,T,F,F,T
+C2_SA1,Tardigrade,other,L1_19_Tr1_liA1,lichen,other,1,Sample,F,F,F,F
+C3_S1,Tardigrade,Tardigrade - lichen - 2019,L1_19_Tr2_li1,lichen,tard.vs.tard,1,Sample,T,F,F,T
+C3_S2,Tardigrade,Tardigrade - lichen - 2019,L1_19_Tr2_li2,lichen,tard.vs.tard,1,Sample,T,F,F,T
+C3_S3,Tardigrade,Tardigrade - lichen - 2019,L1_19_Tr2_li3,lichen,tard.vs.tard,1,Sample,T,F,F,T
+C3_SA1,Tardigrade,other,L1_19_Tr2_liA1,lichen,other,1,Sample,F,F,F,T
+C3_SA2,Tardigrade,other,L1_19_Tr2_liA2,lichen,other,1,Sample,F,F,F,T
+C6_S1,Tardigrade,Tardigrade - lichen - 2019,L1_19_Tr3_li1,lichen,tard.vs.tard,1,Sample,T,F,F,T
+C6_S2,Tardigrade,Tardigrade - lichen - 2019,L1_19_Tr3_li2,lichen,tard.vs.tard,1,Sample,T,F,F,T
+C6_S3,Tardigrade,Tardigrade - lichen - 2019,L1_19_Tr3_li3,lichen,tard.vs.tard,1,Sample,T,F,F,T
+NOR1_SUB_1,Substrate,Substrate - 2020,L1_20_Tr3_sub1,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR1_SUB_2,Substrate,Substrate - 2020,L1_20_Tr3_sub2,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR1_SUB_3,Substrate,Substrate - 2020,L1_20_Tr3_sub3,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR1_SUB_4,Substrate,Substrate - 2020,L1_20_Tr3_sub4,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR1_SUB_5,Substrate,Substrate - 2020,L1_20_Tr3_sub5,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR1_T_1,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr3_li1,lichen,tard.vs.sub,2,Sample,F,F,T,T
+NOR1_T_2,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr3_li2,lichen,tard.vs.sub,2,Sample,F,F,T,T
+NOR1_T_3,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr3_li3,lichen,tard.vs.sub,2,Sample,F,F,T,T
+NOR1_T_4,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr3_li4,lichen,tard.vs.sub,2,Sample,F,F,T,T
+NOR1_T_5,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr3_li5,lichen,tard.vs.sub,2,Sample,F,F,T,T
+NOR2_SUB_1,Substrate,Substrate - 2020,L1_20_Tr2_sub1,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR2_SUB_2,Substrate,Substrate - 2020,L1_20_Tr2_sub2,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR2_SUB_3,Substrate,Substrate - 2020,L1_20_Tr2_sub3,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR2_SUB_4,Substrate,Substrate - 2020,L1_20_Tr2_sub4,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR2_SUB_5,Substrate,Substrate - 2020,L1_20_Tr2_sub5,lichen,tard.vs.sub,2,Sample,F,F,T,F
+NOR2_T_1,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr2_li1,lichen,tard.vs.sub,2,Sample,F,F,T,T
+NOR2_T_2,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr2_li2,lichen,tard.vs.sub,2,Sample,F,F,T,T
+NOR2_T_3,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr2_li3,lichen,tard.vs.sub,2,Sample,F,F,T,T
+NOR2_T_4,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr2_li4,lichen,tard.vs.sub,2,Sample,F,F,T,T
+NOR2_T_5,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr2_li5,lichen,tard.vs.sub,2,Sample,F,F,T,T
+SO1_SUB_1,Substrate,Substrate - 2020,L1_20_Tr4_sub1,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO1_SUB_2,Substrate,Substrate - 2020,L1_20_Tr4_sub2,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO1_SUB_3,Substrate,Substrate - 2020,L1_20_Tr4_sub3,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO1_SUB_4,Substrate,Substrate - 2020,L1_20_Tr4_sub4,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO1_T_1,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr4_li1,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO1_T_2,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr4_li2,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO1_T_3,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr4_li3,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO1_T_4,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr4_li4,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO1_T_5,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr4_li5,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO2_SUB_1,Substrate,Substrate - 2020,L1_20_Tr1_sub1,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO2_SUB_2,Substrate,Substrate - 2020,L1_20_Tr1_sub2,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO2_SUB_3,Substrate,Substrate - 2020,L1_20_Tr1_sub3,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO2_SUB_4,Substrate,Substrate - 2020,L1_20_Tr1_sub4,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO2_SUB_5,Substrate,Substrate - 2020,L1_20_Tr1_sub5,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO2_SUB_6,Substrate,Substrate - 2020,L1_20_Tr1_sub6,lichen,tard.vs.sub,2,Sample,F,F,T,F
+SO2_T_1,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr1_li1,lichen,tard.vs.sub,2,Sample,F,F,T,T
+SO2_T_2,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr1_li2,lichen,tard.vs.sub,2,Sample,F,F,T,T
+SO2_T_3,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr1_li3,lichen,tard.vs.sub,2,Sample,F,F,T,T
+SO2_T_4,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr1_li4,lichen,tard.vs.sub,2,Sample,F,F,T,T
+SO2_T_5,Tardigrade,Tardigrade - lichen - 2020,L1_20_Tr1_li5,lichen,tard.vs.sub,2,Sample,F,F,T,T
+C42_S1,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr1_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C42_S2,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr1_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C42_S3,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr1_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C43_S1,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr2_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C43_S3,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr2_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C44_S1,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr3_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C44_S2,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr3_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C44_S3,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr3_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C45_S2,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr4_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C45_S3,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr4_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C46_S1,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr5_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C46_S2,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr5_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C46_S3,Tardigrade,Tardigrade - lichen - 2019,L6_19_Tr5_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C21_S1,Tardigrade,Tardigrade - lichen - 2019,L3_19_Tr1_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C21_S2,Tardigrade,Tardigrade - lichen - 2019,L3_19_Tr1_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C21_S3,Tardigrade,Tardigrade - lichen - 2019,L3_19_Tr1_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C23_S1,Tardigrade,Tardigrade - lichen - 2019,L3_19_Tr2_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C23_S2,Tardigrade,Tardigrade - lichen - 2019,L3_19_Tr2_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C23_S3,Tardigrade,Tardigrade - lichen - 2019,L3_19_Tr2_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C24_S1,Tardigrade,Tardigrade - lichen - 2019,L3_19_Tr3_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C24_S2,Tardigrade,Tardigrade - lichen - 2019,L3_19_Tr3_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C24_S3,Tardigrade,Tardigrade - lichen - 2019,L3_19_Tr3_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C26_S1,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr1_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C26_S2,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr1_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C26_S3,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr1_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C27_S1,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr2_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C27_S2,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr2_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C27_S3,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr2_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C29_S1,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr3_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C29_S2,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr3_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C29_S3,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr3_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C30_S1,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr4_li1,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C30_S2,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr4_li2,lichen,tard.vs.tard,1,Sample,T,F,F,F
+C30_S3,Tardigrade,Tardigrade - lichen - 2019,L4_19_Tr4_li3,lichen,tard.vs.tard,1,Sample,T,F,F,F
+DPC_EX1_1,DPC,Control,,,Control,1,Control,F,F,F,F
+DPC_EX1_2,DPC,Control,,,Control,1,Control,F,F,F,F
+DPC_EX1_3,DPC,Control,,,Control,1,Control,F,F,F,F
+DPC_EX1_4,DPC,Control,,,Control,1,Control,F,F,F,F
+DPC_EX1_5,DPC,Control,,,Control,1,Control,F,F,F,F
+DPC_EX1_6,DPC,Control,,,Control,1,Control,F,F,F,F
+DPC_EX2_1,DPC,Control,,,Control,2,Control,F,F,F,F
+DPC_EX2_2,DPC,Control,,,Control,2,Control,F,F,F,F
+DPC_EX2_3,DPC,Control,,,Control,2,Control,F,F,F,F
+DPC_EX2_4,DPC,Control,,,Control,2,Control,F,F,F,F
+LPC_P1_1,LPC,Control,,,Control,1,Control,F,F,F,F
+LPC_P1_2,LPC,Control,,,Control,1,Control,F,F,F,F
+LPC_P1_3,LPC,Control,,,Control,1,Control,F,F,F,F
+LPC_P1_4,LPC,Control,,,Control,1,Control,F,F,F,F
+LPC_P1_5,LPC,Control,,,Control,1,Control,F,F,F,F
+LPC_P2_1,LPC,Control,,,Control,2,Control,F,F,F,F
+LPC_P2_2,LPC,Control,,,Control,2,Control,F,F,F,F
+LPC_P2_3,LPC,Control,,,Control,2,Control,F,F,F,F
+LPC_P2_4,LPC,Control,,,Control,2,Control,F,F,F,F
+LPC_P2_5,LPC,Control,,,Control,2,Control,F,F,F,F
+TPC_1,TPC,Control,,,Control,1,Control,F,F,F,F
+TPC_2,TPC,Control,,,Control,1,Control,F,F,F,F
+TPC_3,TPC,Control,,,Control,1,Control,F,F,F,F
+TPC_4,TPC,Control,,,Control,2,Control,F,F,F,F
+TPC_5,TPC,Control,,,Control,2,Control,F,F,F,F
+TPC_6,TPC,Control,,,Control,2,Control,F,F,F,F
