@@ -1,6 +1,8 @@
 # Tardigrade Microbiome
 Contains code used for analysis in the paper "Tardigrade community microbiomes in North American orchards includes putative endosymbionts and plant pathogens" (Laura E. Tibbs-Cortes, Bienvenido W. Tibbs-Cortes, and Stephan Schmitz-Esser 2022). https://doi.org/10.1101/2022.01.28.478239
 
+Raw sequence data deposited at https://www.ncbi.nlm.nih.gov/bioproject/801902. 
+
 ## Taxonomy folder
 This folder contains the mothur output that will be read by the R code and a key (`mothur_group_vs_sample_code.xlsx`) to convert between the sample names used in Mothur and the Map file (in `design` subfolder).
 
