@@ -12,4 +12,4 @@ To unzip the tar.gz file, type tar -xzvf mothur_output.tar.gz in a terminal.
 This folder contains the experimental design data for each sample.
 
 ## Code
-This folder contains code used. Use the `tardigrade_microbiome_processing_clean.R` script to process the mothur output (found in `taxonomy` folder). The `config.toml` file is used partway through the R file.
+This folder contains code used. Use the `tardigrade_microbiome_processing_clean.R` script to process the mothur output (found in `taxonomy` folder). The `config.toml` file is used partway through the R file. The `beta_diversity.R` file was not used in the published analysis but was requested as follow-up to https://github.com/mooreryan/divnet-rs/issues/3. 
