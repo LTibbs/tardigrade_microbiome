@@ -48,7 +48,7 @@ set.seed(734095) # seed from random number generator for reproducibility
 # found at https://github.com/LTibbs/tardigrade_microbiome/blob/main/taxonomy/mothur_output.tar.gz
 # After downloading, unzip the file by typing "tar -xzvf mothur_output.tar.gz" in a terminal
 
-# creating a taxonomy object for later use ----------------------------
+# creating a taxonomy object for later use, based on code by Luke Koester and Chiron Anderson ----------------------------
 
 #reading in the cons.taxonomy file produced by mothur:
 tax <- read.table("../taxonomy/stability.trim.contigs.good.unique.good.filter.precluster.pick.opti_mcc.0.01.cons.taxonomy", header = TRUE)
@@ -68,7 +68,7 @@ tax <- cSplit(data.frame(tax), "Taxonomy", sep=";", drop=TRUE)
 #renaming the columns
 names(tax)[3:8] <- c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus")
 
-##### importing mothur output into a physeq object  -----------------
+##### importing mothur output into a physeq object based on code by Luke Koester and Chiron Anderson -----------------
 
 data <- import_mothur(mothur_shared_file = "../taxonomy/complete.stability.trim.contigs.good.unique.good.filter.precluster.pick.opti_mcc.shared", 
                       mothur_constaxonomy_file = "../taxonomy/stability.trim.contigs.good.unique.good.filter.precluster.pick.opti_mcc.0.01.cons.taxonomy")
